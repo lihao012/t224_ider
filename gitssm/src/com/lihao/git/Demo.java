@@ -9,5 +9,6 @@ package com.lihao.git;
 public class Demo {
     public static void main(String[] args){
         System.out.println("git ider text update");
+        System.out.println("猪长提交");
     }
 }

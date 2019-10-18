@@ -10,5 +10,6 @@ public class Demo {
     public static void main(String[] args){
         System.out.println("git ider text update");
         System.out.println("组员提交");
+        System.out.println("sadasadadas");
     }
 }
